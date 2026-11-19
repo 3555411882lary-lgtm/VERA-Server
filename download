@@ -1,0 +1,9 @@
+.env*
+!.env.example
+astrbot-settings.json
+.venv/
+__pycache__/
+*.log
+*.sqlite*
+*.before*
+*.wav
